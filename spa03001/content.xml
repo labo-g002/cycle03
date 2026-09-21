@@ -18,7 +18,7 @@
   </odeResource>
   <odeResource>
     <key>exe_version</key>
-    <value>4.0.1</value>
+    <value>4.0.3</value>
   </odeResource>
 </odeResources>
 <odeProperties>
@@ -44,11 +44,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.1</value>
+    <value>v4.0.3</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1782751954907</value>
+    <value>1789997753574</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -247,15 +247,17 @@
           <odeBlockId>block-mqi6a3ya-z5j1brxwt</odeBlockId>
           <odeIdeviceId>idevice-mqi6a3ya-yepjnrmr8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Cette activité va consister à créer un cylindre sous solidworks.<img src="{{context_path}}/content/resources/cyl_diam50_l100.png" width="245" height="214" style="float: left;" /></p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cette activité va consister à créer un cylindre sous solidworks.<img src="{{context_path}}/content/resources/cyl_diam50_l100.png" width="245" height="214" style="float: left;" /></p>
 <p>Pour ce faire visualisez la vidéo ci dessous.</p>
 <p>Veillez à respecter les dimensions précisées ci-contre:</p>
-<p></p>
-<p></p>
-<p></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
 <p><video width="600" height="561" controls="controls">
-<source src="{{context_path}}/content/resources/cylindre.mp4" type="video/mp4" /></video></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>Cette activité va consister à créer un cylindre sous solidworks.<img src=\"{{context_path}}/content/resources/cyl_diam50_l100.png\" width=\"245\" height=\"214\" style=\"float: left;\" /></p>\n<p>Pour ce faire visualisez la vidéo ci dessous.</p>\n<p>Veillez à respecter les dimensions précisées ci-contre:</p>\n<p></p>\n<p></p>\n<p></p>\n<p><video width=\"600\" height=\"561\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/cylindre.mp4\" type=\"video/mp4\" /></video></p>"}]]></jsonProperties>
+<source src="{{context_path}}/content/resources/cylindre.mp4" type="video/mp4" /></video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqi6a3ya-yepjnrmr8","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Cette activité va consister à créer un cylindre sous solidworks.<img src=\"{{context_path}}/content/resources/cyl_diam50_l100.png\" width=\"245\" height=\"214\" style=\"float: left;\" /></p>\n<p>Pour ce faire visualisez la vidéo ci dessous.</p>\n<p>Veillez à respecter les dimensions précisées ci-contre:</p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><video width=\"600\" height=\"561\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/cylindre.mp4\" type=\"video/mp4\" /></video></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -308,10 +310,12 @@
           <odeBlockId>block-mqi6a3ya-wwdtuyvss</odeBlockId>
           <odeIdeviceId>idevice-mqi6a3ya-6urzjmp55</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>modifier les dimensions du cylindre, à l'aide de la vidéo suivante:</p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>modifier les dimensions du cylindre, à l'aide de la vidéo suivante:</p>
 <p><video width="600" height="240" controls="controls">
-<source src="{{context_path}}/content/resources/modifier_une_piece.mp4" type="video/mp4" /></video></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>modifier les dimensions du cylindre, à l'aide de la vidéo suivante:</p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/modifier_une_piece.mp4\" type=\"video/mp4\" /></video></p>"}]]></jsonProperties>
+<source src="{{context_path}}/content/resources/cylindre modif.mp4" type="video/mp4" /></video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqi6a3ya-6urzjmp55","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>modifier les dimensions du cylindre, à l'aide de la vidéo suivante:</p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/cylindre modif.mp4\" type=\"video/mp4\" /></video></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -402,13 +406,15 @@
           <odeBlockId>block-mqi6a3ya-ylo3sgzk4</odeBlockId>
           <odeIdeviceId>idevice-mqi6a3ya-pu6fhcxqd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/paral.png" width="240" height="138" style="float: left;" />Cette activité va consister à créer un parallélépipède sous solidworks. Pour ce faire visualisez la vidéo ci dessous.</p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/paral.png" width="240" height="138" style="float: left;" />Cette activité va consister à créer un parallélépipède sous solidworks. Pour ce faire visualisez la vidéo ci dessous.</p>
 <p>Veillez à respecter les dimensions précisées ci-contre</p>
-<p></p>
-<p></p>
+<p><br /></p>
+<p><br /></p>
 <p><video width="600" height="240" controls="controls">
-<source src="{{context_path}}/content/resources/parallelepipede.mp4" type="video/mp4" /></video></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/paral.png\" width=\"240\" height=\"138\" style=\"float: left;\" />Cette activité va consister à créer un parallélépipède sous solidworks. Pour ce faire visualisez la vidéo ci dessous.</p>\n<p>Veillez à respecter les dimensions précisées ci-contre</p>\n<p></p>\n<p></p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/parallelepipede.mp4\" type=\"video/mp4\" /></video></p>"}]]></jsonProperties>
+<source src="{{context_path}}/content/resources/para.mp4" type="video/mp4" /></video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqi6a3ya-pu6fhcxqd","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><img src=\"{{context_path}}/content/resources/paral.png\" width=\"240\" height=\"138\" style=\"float: left;\" />Cette activité va consister à créer un parallélépipède sous solidworks. Pour ce faire visualisez la vidéo ci dessous.</p>\n<p>Veillez à respecter les dimensions précisées ci-contre</p>\n<p><br /></p>\n<p><br /></p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/para.mp4\" type=\"video/mp4\" /></video></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -499,14 +505,16 @@
           <odeBlockId>block-mqi6a3yb-w6fbvjxzu</odeBlockId>
           <odeIdeviceId>idevice-mqi6a3yb-kmsavdo6c</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/cone.png" width="267" height="198" style="float: left;" />Cette activité va consister à créer un tronc de cône sous solidworks. Pour ce faire visualisez la vidéo CREATION D’UN TRONC DE CONE ci dessous. Veillez à respecter les dimensions précisées ci-contre</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/cone.png" width="267" height="198" style="float: left;" />Cette activité va consister à créer un tronc de cône sous solidworks. Pour ce faire visualisez la vidéo CREATION D’UN TRONC DE CONE ci dessous. Veillez à respecter les dimensions précisées ci-contre</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
 <p><video width="600" height="240" controls="controls">
-<source src="{{context_path}}/content/resources/tronc_de_cone.mp4" type="video/mp4" /></video></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/cone.png\" width=\"267\" height=\"198\" style=\"float: left;\" />Cette activité va consister à créer un tronc de cône sous solidworks. Pour ce faire visualisez la vidéo CREATION D’UN TRONC DE CONE ci dessous. Veillez à respecter les dimensions précisées ci-contre</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/tronc_de_cone.mp4\" type=\"video/mp4\" /></video></p>"}]]></jsonProperties>
+<source src="{{context_path}}/content/resources/cone.mp4" type="video/mp4" /></video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqi6a3yb-kmsavdo6c","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><img src=\"{{context_path}}/content/resources/cone.png\" width=\"267\" height=\"198\" style=\"float: left;\" />Cette activité va consister à créer un tronc de cône sous solidworks. Pour ce faire visualisez la vidéo CREATION D’UN TRONC DE CONE ci dessous. Veillez à respecter les dimensions précisées ci-contre</p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/cone.mp4\" type=\"video/mp4\" /></video></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -559,11 +567,13 @@
           <odeBlockId>block-mqi6a3yb-n0kwuoj0c</odeBlockId>
           <odeIdeviceId>idevice-mqi6a3yb-vgs5b2lv7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p>Modifier le tronc de cone en cone pointu:</p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Modifier le tronc de cone en cone pointu:</p>
 <p><video width="600" height="240" controls="controls">
-<source src="{{context_path}}/content/resources/conepointe.mp4" type="video/mp4" /></video></p>
-<p></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p>Modifier le tronc de cone en cone pointu:</p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/conepointe.mp4\" type=\"video/mp4\" /></video></p>\n<p></p>"}]]></jsonProperties>
+<source src="{{context_path}}/content/resources/cone pointe.mp4" type="video/mp4" /></video></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqi6a3yb-vgs5b2lv7","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Modifier le tronc de cone en cone pointu:</p>\n<p><video width=\"600\" height=\"240\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/cone pointe.mp4\" type=\"video/mp4\" /></video></p>\n<p><br /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
